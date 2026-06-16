@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mosahic13.aternos.me
-",
+    "ip": "mosahic13.aternos.me",
     "port": 58545,
     "version": "",
     "try-creative": false
